@@ -1,2 +1,16 @@
 Created with `npx create-expo-app@latest`
 Run with `npm run web`
+
+Output is
+```
+Seth
+Test
+Test
+```
+
+Expected output is
+```
+Seth
+Test
+Test 2
+```
